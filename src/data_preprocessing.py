@@ -7,7 +7,7 @@ from src.config.config import DATA_RAW_PATH, DATA_CLEAN_PATH
 # src/data_preprocessing.py
 
 def preprocess_run():
-    # Load raw data
+    # Load raw data1
     # data_path = "data/raw/sales.csv"  # adjust path if needed
     # if not os.path.exists(data_path):
     #     raise FileNotFoundError(f"{data_path} not found")
